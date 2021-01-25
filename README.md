@@ -1,2 +1,4 @@
 # hello-world-testxxxx
 a test for understanding
+
+I'm editing this file in this new branch I have created for my testing for this new repository of github that I have created because I am trying to learn how to use github as well as gitlab in order to properly upload the code onto github and possibly gitlab because my professor for csce 2110 told us during lectures that if we do not know how to properly use github or gitlab then we will be criticized for our being unable to properly use gitlab or github in order to properly upload our code(s) when using or working on a group project for coding because github as well as gitlab are being used by programmers in order to work on professional programs as a way to communicate our code across long distances in order to professionally work on complicated code 
